@@ -1,0 +1,221 @@
+lead_id,company,email,region,segment,source,status,owner,created_at,first_contact_at,next_followup_at,priority,escalated
+FL00001,Example Business 001,contact0001@example.test,West,SMB,Demo request,New,Leah Patel,2026-10-25T20:00:00,,,Normal,0
+FL00002,Example Business 002,contact0002@example.test,East,Enterprise,Referral,Contacted,Noah Brooks,2026-10-29T20:00:00,2026-10-31T12:00:00,2026-11-01T12:00:00,High,0
+FL00003,Example Business 003,contact0003@example.test,Central,Enterprise,Webinar,New,,2026-10-29T01:00:00,,,High,0
+FL00004,Example Business 004,contact0004@example.test,East,SMB,Referral,Contacted,,2026-10-28T17:00:00,2026-10-30T04:00:00,2026-10-30T17:00:00,Normal,0
+FL00005,Example Business 005,contact0005@example.test,Central,SMB,Webinar,New,Leah Patel,2026-10-30T16:00:00,,,Normal,0
+FL00006,Example Business 006,contact0006@example.test,West,SMB,Referral,New,,2026-10-25T12:00:00,,,Normal,0
+FL00007,Example Business 007,contact0007@example.test,East,Enterprise,Referral,New,,2026-10-30T06:00:00,,,High,0
+FL00008,Example Business 008,contact0008@example.test,Central,SMB,Demo request,Contacted,,2026-10-27T12:00:00,2026-10-27T23:00:00,2026-10-28T13:00:00,Normal,0
+FL00009,Example Business 009,contact0009@example.test,Central,SMB,Referral,New,Leah Patel,2026-10-31T09:00:00,,,Normal,0
+FL00010,Example Business 010,contact0010@example.test,West,SMB,Demo request,Qualified,Priya Shah,2026-10-25T23:00:00,2026-10-27T00:00:00,2026-10-28T08:00:00,Normal,0
+FL00011,Example Business 011,contact0011@example.test,East,Mid-market,Referral,Contacted,Amira Chen,2026-10-28T13:00:00,2026-10-30T00:00:00,2026-11-01T03:00:00,Normal,0
+FL00012,Example Business 012,contact0012@example.test,West,SMB,Webinar,New,,2026-10-29T10:00:00,,,Normal,0
+FL00013,Example Business 013,contact0013@example.test,Central,SMB,Outbound,New,Mateo Garcia,2026-10-29T23:00:00,,,High,0
+FL00014,Example Business 014,contact0014@example.test,East,Mid-market,Paid search,New,Amira Chen,2026-10-26T13:00:00,,,Normal,0
+FL00015,Example Business 015,contact0015@example.test,East,Mid-market,Demo request,New,Noah Brooks,2026-10-27T14:00:00,,,Normal,0
+FL00016,Example Business 016,contact0016@example.test,East,Mid-market,Demo request,New,Priya Shah,2026-10-28T05:00:00,,,Normal,0
+FL00017,Example Business 017,contact0017@example.test,East,Mid-market,Demo request,New,Mateo Garcia,2026-10-29T13:00:00,,,Normal,0
+FL00018,Example Business 018,contact0018@example.test,East,Mid-market,Webinar,New,,2026-10-31T11:00:00,,,Normal,0
+FL00019,Example Business 019,contact0019@example.test,Central,SMB,Paid search,New,,2026-10-28T00:00:00,,,Normal,0
+FL00020,Example Business 020,contact0020@example.test,East,SMB,Referral,New,,2026-10-25T13:00:00,,,Normal,0
+FL00021,Example Business 021,contact0021@example.test,Central,SMB,Referral,New,Noah Brooks,2026-10-29T10:00:00,,,Normal,0
+FL00022,Example Business 022,contact0022@example.test,East,Enterprise,Referral,New,Priya Shah,2026-10-26T18:00:00,,,High,0
+FL00023,Example Business 023,contact0023@example.test,East,SMB,Webinar,Contacted,Noah Brooks,2026-10-29T05:00:00,2026-10-30T20:00:00,2026-11-01T23:00:00,Normal,0
+FL00024,Example Business 024,contact0024@example.test,Central,Mid-market,Referral,New,Priya Shah,2026-10-29T23:00:00,,,Normal,0
+FL00025,Example Business 025,contact0025@example.test,East,Mid-market,Webinar,New,,2026-10-27T02:00:00,,,Normal,0
+FL00026,Example Business 026,contact0026@example.test,Central,Mid-market,Webinar,New,Ethan Wright,2026-10-27T06:00:00,,,High,0
+FL00027,Example Business 027,contact0027@example.test,West,SMB,Demo request,Contacted,Unlisted User,2026-10-26T11:00:00,2026-10-28T03:00:00,2026-10-29T06:00:00,Normal,0
+FL00028,Example Business 028,contact0028@example.test,West,Enterprise,Webinar,New,,2026-10-30T02:00:00,,,High,0
+FL00029,Example Business 029,contact0029@example.test,East,SMB,Outbound,New,Amira Chen,2026-10-25T17:00:00,,,Normal,0
+FL00030,Example Business 030,contact0030@example.test,Central,SMB,Demo request,New,,2026-10-31T09:00:00,,,Normal,0
+FL00031,Example Business 031,,West,Enterprise,Outbound,New,,2026-10-26T23:00:00,,,High,0
+FL00032,Example Business 032,contact0032@example.test,Central,SMB,Paid search,New,,2026-10-25T12:00:00,,,Normal,0
+FL00033,Example Business 033,contact0033@example.test,West,Mid-market,Demo request,New,,2026-10-27T01:00:00,,,Normal,0
+FL00034,Example Business 034,contact0034@example.test,Central,SMB,Outbound,New,,2026-10-26T05:00:00,,,Normal,0
+FL00035,Example Business 035,contact0035@example.test,East,Mid-market,Webinar,New,Noah Brooks,2026-10-28T08:00:00,,,Normal,0
+FL00036,Example Business 036,contact0036@example.test,East,Mid-market,Paid search,New,,2026-10-30T22:00:00,,,Normal,0
+FL00037,Example Business 037,contact0037@example.test,West,Mid-market,Paid search,New,,2026-10-31T09:00:00,,,Normal,0
+FL00038,Example Business 038,contact0038@example.test,West,SMB,Paid search,New,Mateo Garcia,2026-10-30T05:00:00,,,Normal,0
+FL00039,Example Business 039,contact0039@example.test,Central,SMB,Webinar,New,,2026-10-25T20:00:00,,,High,0
+FL00040,Example Business 040,contact0040@example.test,West,Enterprise,Webinar,New,Amira Chen,2026-10-27T00:00:00,,,High,0
+FL00041,Example Business 041,contact0041@example.test,West,Mid-market,Demo request,New,Priya Shah,2026-10-30T11:00:00,,,Normal,0
+FL00042,Example Business 042,contact0042@example.test,East,Enterprise,Paid search,Contacted,,2026-10-29T04:00:00,2026-10-30T09:00:00,2026-10-31T14:00:00,High,0
+FL00043,Example Business 043,contact0043@example.test,East,SMB,Demo request,New,Mateo Garcia,2026-10-27T16:00:00,,,Normal,0
+FL00044,Example Business 044,contact0044@example.test,Central,SMB,Referral,New,Noah Brooks,2026-10-29T01:00:00,,,Normal,0
+FL00045,Example Business 045,contact0045@example.test,East,SMB,Paid search,New,,2026-10-30T10:00:00,,,Normal,0
+FL00046,Example Business 046,contact0046@example.test,West,Mid-market,Outbound,New,,2026-10-30T12:00:00,,,Normal,0
+FL00047,Example Business 047,contact0001@example.test,East,SMB,Demo request,New,Priya Shah,2026-10-31T11:00:00,,,Normal,0
+FL00048,Example Business 048,contact0048@example.test,West,Mid-market,Demo request,New,,2026-10-26T16:00:00,,,Normal,0
+FL00049,Example Business 049,contact0049@example.test,Central,Enterprise,Referral,New,,2026-10-28T19:00:00,,,High,0
+FL00050,Example Business 050,contact0050@example.test,East,Enterprise,Outbound,New,,2026-10-31T09:00:00,,,High,0
+FL00051,Example Business 051,contact0051@example.test,West,Mid-market,Paid search,New,,2026-10-27T00:00:00,,,Normal,0
+FL00052,Example Business 052,contact0052@example.test,West,SMB,Webinar,New,,2026-10-31T07:00:00,,,High,0
+FL00053,Example Business 053,contact0053@example.test,Central,Enterprise,Demo request,New,,2026-10-28T11:00:00,,,High,0
+FL00054,Example Business 054,contact0054@example.test,East,SMB,Demo request,Contacted,Unlisted User,2026-10-30T05:00:00,2026-10-31T18:00:00,2026-11-02T23:00:00,Normal,0
+FL00055,Example Business 055,contact0055@example.test,West,Mid-market,Referral,Qualified,Priya Shah,2026-10-30T02:00:00,2026-10-31T16:00:00,2026-11-02T09:00:00,Normal,0
+FL00056,Example Business 056,contact0056@example.test,East,SMB,Webinar,New,Ethan Wright,2026-10-27T11:00:00,,,Normal,0
+FL00057,Example Business 057,contact0057@example.test,East,Mid-market,Demo request,Contacted,Noah Brooks,2026-10-30T06:00:00,2026-10-31T11:00:00,2026-11-02T02:00:00,Normal,0
+FL00058,Example Business 058,contact0058@example.test,Central,Mid-market,Demo request,New,Noah Brooks,2026-10-26T09:00:00,,,Normal,0
+FL00059,Example Business 059,contact0059@example.test,West,SMB,Webinar,Contacted,,2026-10-28T22:00:00,2026-10-29T22:00:00,2026-10-31T09:00:00,Normal,0
+FL00060,Example Business 060,contact0060@example.test,Central,SMB,Paid search,New,,2026-10-26T17:00:00,,,Normal,0
+FL00061,Example Business 061,contact0061@example.test,Central,SMB,Paid search,Contacted,,2026-10-28T12:00:00,2026-10-30T03:00:00,2026-11-01T07:00:00,Normal,0
+FL00062,Example Business 062,,East,SMB,Outbound,Contacted,Ethan Wright,2026-10-28T15:00:00,2026-10-30T17:00:00,2026-11-01T18:00:00,Normal,0
+FL00063,Example Business 063,contact0063@example.test,Central,Mid-market,Paid search,New,Noah Brooks,2026-10-29T13:00:00,,,Normal,0
+FL00064,Example Business 064,contact0064@example.test,Central,Enterprise,Referral,New,Priya Shah,2026-10-25T21:00:00,,,High,0
+FL00065,Example Business 065,contact0065@example.test,East,Mid-market,Referral,New,Noah Brooks,2026-10-26T02:00:00,,,High,0
+FL00066,Example Business 066,contact0066@example.test,Central,SMB,Webinar,Contacted,Amira Chen,2026-10-30T06:00:00,2026-10-31T02:00:00,2026-11-02T00:00:00,Normal,0
+FL00067,Example Business 067,contact0067@example.test,Central,SMB,Referral,New,Leah Patel,2026-10-27T15:00:00,,,Normal,0
+FL00068,Example Business 068,contact0068@example.test,West,Mid-market,Outbound,New,Leah Patel,2026-10-28T13:00:00,,,Normal,0
+FL00069,Example Business 069,contact0069@example.test,Central,Mid-market,Outbound,New,Ethan Wright,2026-10-29T06:00:00,,,Normal,0
+FL00070,Example Business 070,contact0070@example.test,West,SMB,Outbound,Contacted,Ethan Wright,2026-10-26T06:00:00,2026-10-27T17:00:00,2026-10-29T19:00:00,Normal,0
+FL00071,Example Business 071,contact0071@example.test,West,Mid-market,Referral,New,,2026-10-31T10:00:00,,,Normal,0
+FL00072,Example Business 072,contact0072@example.test,West,SMB,Outbound,New,,2026-10-29T12:00:00,,,Normal,0
+FL00073,Example Business 073,contact0073@example.test,East,Mid-market,Demo request,New,Ethan Wright,2026-10-27T01:00:00,,,Normal,0
+FL00074,Example Business 074,contact0074@example.test,East,SMB,Paid search,New,,2026-10-29T03:00:00,,,Normal,0
+FL00075,Example Business 075,contact0075@example.test,West,Mid-market,Outbound,New,Amira Chen,2026-10-29T02:00:00,,,Normal,0
+FL00076,Example Business 076,contact0076@example.test,West,SMB,Demo request,New,Mateo Garcia,2026-10-27T21:00:00,,,Normal,0
+FL00077,Example Business 077,contact0077@example.test,East,SMB,Webinar,New,Ethan Wright,2026-10-29T08:00:00,,,Normal,0
+FL00078,Example Business 078,contact0078@example.test,East,SMB,Webinar,New,Mateo Garcia,2026-10-26T13:00:00,,,High,0
+FL00079,Example Business 079,contact0079@example.test,East,Mid-market,Paid search,New,,2026-10-31T12:00:00,,,Normal,0
+FL00080,Example Business 080,contact0080@example.test,West,SMB,Outbound,Qualified,,2026-10-27T17:00:00,2026-10-27T20:00:00,2026-10-29T04:00:00,Normal,0
+FL00081,Example Business 081,contact0081@example.test,Central,SMB,Paid search,New,Unlisted User,2026-10-30T01:00:00,,,Normal,0
+FL00082,Example Business 082,contact0082@example.test,Central,SMB,Webinar,Contacted,,2026-10-25T17:00:00,2026-10-27T05:00:00,2026-10-28T17:00:00,Normal,0
+FL00083,Example Business 083,contact0083@example.test,Central,Enterprise,Referral,New,Noah Brooks,2026-10-28T00:00:00,,,High,0
+FL00084,Example Business 084,contact0084@example.test,East,Enterprise,Demo request,Contacted,Ethan Wright,2026-10-28T01:00:00,2026-10-28T03:00:00,2026-10-29T20:00:00,High,0
+FL00085,Example Business 085,contact0085@example.test,East,Mid-market,Outbound,Contacted,,2026-10-26T02:00:00,2026-10-27T13:00:00,2026-10-28T09:00:00,Normal,0
+FL00086,Example Business 086,contact0086@example.test,East,SMB,Outbound,New,Ethan Wright,2026-10-25T17:00:00,,,Normal,0
+FL00087,Example Business 087,contact0087@example.test,East,Enterprise,Paid search,Qualified,,2026-10-28T04:00:00,2026-10-30T15:00:00,2026-11-01T22:00:00,High,0
+FL00088,Example Business 088,contact0088@example.test,East,Enterprise,Paid search,New,,2026-10-25T16:00:00,,,High,0
+FL00089,Example Business 089,contact0089@example.test,Central,SMB,Referral,New,Ethan Wright,2026-10-28T13:00:00,,,Normal,0
+FL00090,Example Business 090,contact0090@example.test,West,Mid-market,Webinar,New,,2026-10-31T15:00:00,,,Normal,0
+FL00091,Example Business 091,contact0091@example.test,East,Mid-market,Referral,New,Ethan Wright,2026-10-30T00:00:00,,,High,0
+FL00092,Example Business 092,contact0092@example.test,Central,SMB,Webinar,New,Ethan Wright,2026-10-31T03:00:00,,,Normal,0
+FL00093,Example Business 093,,West,SMB,Webinar,New,,2026-10-31T11:00:00,,,Normal,0
+FL00094,Example Business 094,contact0001@example.test,Central,Mid-market,Referral,New,,2026-10-30T12:00:00,,,Normal,0
+FL00095,Example Business 095,contact0095@example.test,West,Mid-market,Demo request,New,Mateo Garcia,2026-10-31T00:00:00,,,Normal,0
+FL00096,Example Business 096,contact0096@example.test,Central,SMB,Demo request,New,Mateo Garcia,2026-10-27T10:00:00,,,Normal,0
+FL00097,Example Business 097,contact0097@example.test,Central,Enterprise,Demo request,New,,2026-10-27T03:00:00,,,High,0
+FL00098,Example Business 098,contact0098@example.test,East,SMB,Outbound,Qualified,,2026-10-30T15:00:00,2026-10-31T00:00:00,2026-11-02T03:00:00,Normal,0
+FL00099,Example Business 099,contact0099@example.test,West,SMB,Demo request,Contacted,Ethan Wright,2026-10-27T03:00:00,2026-10-28T09:00:00,2026-10-29T00:00:00,Normal,0
+FL00100,Example Business 100,contact0100@example.test,East,SMB,Referral,Contacted,Leah Patel,2026-10-26T15:00:00,2026-10-27T18:00:00,2026-10-28T20:00:00,Normal,0
+FL00101,Example Business 101,contact0101@example.test,Central,Mid-market,Demo request,New,Ethan Wright,2026-10-27T18:00:00,,,Normal,0
+FL00102,Example Business 102,contact0102@example.test,West,SMB,Referral,New,,2026-10-27T15:00:00,,,Normal,0
+FL00103,Example Business 103,contact0103@example.test,East,Mid-market,Demo request,Qualified,Priya Shah,2026-10-27T01:00:00,2026-10-28T16:00:00,2026-10-30T18:00:00,Normal,0
+FL00104,Example Business 104,contact0104@example.test,Central,SMB,Demo request,New,Amira Chen,2026-10-31T00:00:00,,,High,0
+FL00105,Example Business 105,contact0105@example.test,East,SMB,Outbound,New,Amira Chen,2026-10-27T04:00:00,,,Normal,0
+FL00106,Example Business 106,contact0106@example.test,West,Enterprise,Referral,New,Mateo Garcia,2026-10-29T08:00:00,,,High,0
+FL00107,Example Business 107,contact0107@example.test,East,SMB,Paid search,Contacted,Priya Shah,2026-10-28T14:00:00,2026-10-29T09:00:00,2026-10-31T02:00:00,Normal,0
+FL00108,Example Business 108,contact0108@example.test,West,SMB,Outbound,New,Unlisted User,2026-10-25T12:00:00,,,Normal,0
+FL00109,Example Business 109,contact0109@example.test,East,Enterprise,Paid search,New,,2026-10-29T08:00:00,,,High,0
+FL00110,Example Business 110,contact0110@example.test,West,SMB,Demo request,Contacted,Leah Patel,2026-10-30T17:00:00,2026-10-31T01:00:00,2026-11-01T06:00:00,Normal,0
+FL00111,Example Business 111,contact0111@example.test,West,Enterprise,Referral,Contacted,Noah Brooks,2026-10-27T20:00:00,2026-10-29T03:00:00,2026-10-30T01:00:00,High,0
+FL00112,Example Business 112,contact0112@example.test,Central,Mid-market,Demo request,Contacted,Ethan Wright,2026-10-27T16:00:00,2026-10-27T20:00:00,2026-10-29T09:00:00,Normal,0
+FL00113,Example Business 113,contact0113@example.test,Central,Enterprise,Webinar,New,,2026-10-31T07:00:00,,,High,0
+FL00114,Example Business 114,contact0114@example.test,East,Enterprise,Outbound,Contacted,Priya Shah,2026-10-28T17:00:00,2026-10-30T11:00:00,2026-11-01T01:00:00,High,0
+FL00115,Example Business 115,contact0115@example.test,West,SMB,Paid search,New,Priya Shah,2026-10-31T08:00:00,,,Normal,0
+FL00116,Example Business 116,contact0116@example.test,East,SMB,Outbound,New,Ethan Wright,2026-10-28T23:00:00,,,Normal,0
+FL00117,Example Business 117,contact0117@example.test,East,Mid-market,Referral,New,Noah Brooks,2026-10-30T06:00:00,,,High,0
+FL00118,Example Business 118,contact0118@example.test,East,SMB,Paid search,New,,2026-10-30T04:00:00,,,Normal,0
+FL00119,Example Business 119,contact0119@example.test,East,SMB,Webinar,New,Ethan Wright,2026-10-28T15:00:00,,,Normal,0
+FL00120,Example Business 120,contact0120@example.test,Central,SMB,Outbound,New,,2026-10-28T05:00:00,,,Normal,0
+FL00121,Example Business 121,contact0121@example.test,East,Enterprise,Paid search,New,Noah Brooks,2026-10-26T01:00:00,,,High,0
+FL00122,Example Business 122,contact0122@example.test,Central,SMB,Paid search,New,Noah Brooks,2026-10-27T16:00:00,,,Normal,0
+FL00123,Example Business 123,contact0123@example.test,West,SMB,Webinar,New,Leah Patel,2026-10-28T07:00:00,,,Normal,0
+FL00124,Example Business 124,,East,SMB,Webinar,New,Noah Brooks,2026-10-27T09:00:00,,,Normal,0
+FL00125,Example Business 125,contact0125@example.test,East,SMB,Demo request,New,Amira Chen,2026-10-30T11:00:00,,,Normal,0
+FL00126,Example Business 126,contact0126@example.test,West,SMB,Demo request,New,Mateo Garcia,2026-10-29T22:00:00,,,Normal,0
+FL00127,Example Business 127,contact0127@example.test,East,Mid-market,Paid search,New,Mateo Garcia,2026-10-26T17:00:00,,,Normal,0
+FL00128,Example Business 128,contact0128@example.test,West,SMB,Demo request,New,Ethan Wright,2026-10-25T13:00:00,,,Normal,0
+FL00129,Example Business 129,contact0129@example.test,Central,Mid-market,Demo request,New,,2026-10-25T12:00:00,,,Normal,0
+FL00130,Example Business 130,contact0130@example.test,East,SMB,Outbound,New,Noah Brooks,2026-10-31T15:00:00,,,High,0
+FL00131,Example Business 131,contact0131@example.test,East,SMB,Webinar,New,,2026-10-28T11:00:00,,,Normal,0
+FL00132,Example Business 132,contact0132@example.test,East,SMB,Webinar,New,,2026-10-29T13:00:00,,,Normal,0
+FL00133,Example Business 133,contact0133@example.test,Central,Mid-market,Outbound,Contacted,Amira Chen,2026-10-27T08:00:00,2026-10-28T10:00:00,2026-10-30T07:00:00,Normal,0
+FL00134,Example Business 134,contact0134@example.test,West,Mid-market,Webinar,New,Noah Brooks,2026-10-30T16:00:00,,,Normal,0
+FL00135,Example Business 135,contact0135@example.test,Central,SMB,Webinar,Contacted,Unlisted User,2026-10-26T08:00:00,2026-10-27T11:00:00,2026-10-29T01:00:00,Normal,0
+FL00136,Example Business 136,contact0136@example.test,West,SMB,Webinar,New,Amira Chen,2026-10-27T00:00:00,,,Normal,0
+FL00137,Example Business 137,contact0137@example.test,East,SMB,Outbound,New,,2026-10-30T19:00:00,,,Normal,0
+FL00138,Example Business 138,contact0138@example.test,West,SMB,Demo request,New,,2026-10-30T16:00:00,,,Normal,0
+FL00139,Example Business 139,contact0139@example.test,East,Enterprise,Webinar,New,Noah Brooks,2026-10-27T02:00:00,,,High,0
+FL00140,Example Business 140,contact0140@example.test,West,Mid-market,Webinar,New,,2026-10-31T09:00:00,,,Normal,0
+FL00141,Example Business 141,contact0001@example.test,West,SMB,Paid search,Contacted,Ethan Wright,2026-10-28T06:00:00,2026-10-30T01:00:00,2026-10-31T15:00:00,Normal,0
+FL00142,Example Business 142,contact0142@example.test,Central,Mid-market,Webinar,New,,2026-10-25T18:00:00,,,Normal,0
+FL00143,Example Business 143,contact0143@example.test,Central,Enterprise,Webinar,New,Priya Shah,2026-10-25T13:00:00,,,High,0
+FL00144,Example Business 144,contact0144@example.test,East,Enterprise,Outbound,Qualified,Leah Patel,2026-10-29T03:00:00,2026-10-30T21:00:00,2026-11-01T15:00:00,High,0
+FL00145,Example Business 145,contact0145@example.test,West,Enterprise,Demo request,New,Priya Shah,2026-10-31T06:00:00,,,High,0
+FL00146,Example Business 146,contact0146@example.test,West,SMB,Paid search,Contacted,Amira Chen,2026-10-28T18:00:00,2026-10-31T03:00:00,2026-11-01T16:00:00,Normal,0
+FL00147,Example Business 147,contact0147@example.test,Central,SMB,Webinar,New,Mateo Garcia,2026-10-31T01:00:00,,,Normal,0
+FL00148,Example Business 148,contact0148@example.test,East,SMB,Webinar,New,Priya Shah,2026-10-28T09:00:00,,,Normal,0
+FL00149,Example Business 149,contact0149@example.test,East,Mid-market,Paid search,Qualified,,2026-10-26T06:00:00,2026-10-27T21:00:00,2026-10-29T12:00:00,Normal,0
+FL00150,Example Business 150,contact0150@example.test,Central,SMB,Outbound,New,,2026-10-28T00:00:00,,,Normal,0
+FL00151,Example Business 151,contact0151@example.test,East,Mid-market,Referral,Contacted,Priya Shah,2026-10-28T05:00:00,2026-10-30T00:00:00,2026-10-30T11:00:00,Normal,0
+FL00152,Example Business 152,contact0152@example.test,Central,Mid-market,Demo request,New,,2026-10-31T00:00:00,,,Normal,0
+FL00153,Example Business 153,contact0153@example.test,East,Mid-market,Referral,New,Amira Chen,2026-10-31T05:00:00,,,Normal,0
+FL00154,Example Business 154,contact0154@example.test,West,Enterprise,Referral,New,,2026-10-27T11:00:00,,,High,0
+FL00155,Example Business 155,,West,Enterprise,Webinar,New,,2026-10-29T02:00:00,,,High,0
+FL00156,Example Business 156,contact0156@example.test,East,Enterprise,Referral,New,Noah Brooks,2026-10-31T11:00:00,,,High,0
+FL00157,Example Business 157,contact0157@example.test,West,SMB,Referral,New,Mateo Garcia,2026-10-29T13:00:00,,,Normal,0
+FL00158,Example Business 158,contact0158@example.test,West,SMB,Outbound,New,Mateo Garcia,2026-10-29T12:00:00,,,Normal,0
+FL00159,Example Business 159,contact0159@example.test,West,Mid-market,Outbound,New,Leah Patel,2026-10-30T12:00:00,,,Normal,0
+FL00160,Example Business 160,contact0160@example.test,Central,Mid-market,Webinar,Contacted,,2026-10-26T04:00:00,2026-10-28T05:00:00,2026-10-30T10:00:00,Normal,0
+FL00161,Example Business 161,contact0161@example.test,West,Mid-market,Outbound,New,,2026-10-31T00:00:00,,,Normal,0
+FL00162,Example Business 162,contact0162@example.test,Central,Enterprise,Webinar,New,Unlisted User,2026-10-25T15:00:00,,,High,0
+FL00163,Example Business 163,contact0163@example.test,Central,Mid-market,Paid search,Contacted,,2026-10-26T09:00:00,2026-10-27T17:00:00,2026-10-28T16:00:00,Normal,0
+FL00164,Example Business 164,contact0164@example.test,Central,Mid-market,Referral,New,Amira Chen,2026-10-30T15:00:00,,,Normal,0
+FL00165,Example Business 165,contact0165@example.test,East,Mid-market,Referral,New,,2026-10-26T08:00:00,,,Normal,0
+FL00166,Example Business 166,contact0166@example.test,East,Mid-market,Referral,New,Noah Brooks,2026-10-27T02:00:00,,,Normal,0
+FL00167,Example Business 167,contact0167@example.test,East,Mid-market,Paid search,New,Amira Chen,2026-10-30T04:00:00,,,Normal,0
+FL00168,Example Business 168,contact0168@example.test,East,SMB,Paid search,New,,2026-10-29T06:00:00,,,Normal,0
+FL00169,Example Business 169,contact0169@example.test,Central,SMB,Paid search,New,,2026-10-25T18:00:00,,,High,0
+FL00170,Example Business 170,contact0170@example.test,East,Enterprise,Outbound,New,Mateo Garcia,2026-10-28T15:00:00,,,High,0
+FL00171,Example Business 171,contact0171@example.test,East,SMB,Demo request,Contacted,Ethan Wright,2026-10-29T17:00:00,2026-10-31T10:00:00,2026-10-31T23:00:00,Normal,0
+FL00172,Example Business 172,contact0172@example.test,West,SMB,Referral,Contacted,Amira Chen,2026-10-26T16:00:00,2026-10-29T06:00:00,2026-10-30T13:00:00,Normal,0
+FL00173,Example Business 173,contact0173@example.test,West,SMB,Referral,New,Noah Brooks,2026-10-29T22:00:00,,,Normal,0
+FL00174,Example Business 174,contact0174@example.test,Central,SMB,Paid search,Qualified,Mateo Garcia,2026-10-26T02:00:00,2026-10-26T07:00:00,2026-10-28T02:00:00,Normal,0
+FL00175,Example Business 175,contact0175@example.test,Central,Mid-market,Outbound,New,,2026-10-29T15:00:00,,,Normal,0
+FL00176,Example Business 176,contact0176@example.test,West,SMB,Demo request,New,,2026-10-31T00:00:00,,,Normal,0
+FL00177,Example Business 177,contact0177@example.test,West,SMB,Paid search,New,,2026-10-31T10:00:00,,,Normal,0
+FL00178,Example Business 178,contact0178@example.test,East,SMB,Referral,New,Amira Chen,2026-10-26T12:00:00,,,Normal,0
+FL00179,Example Business 179,contact0179@example.test,West,SMB,Referral,New,,2026-10-30T20:00:00,,,Normal,0
+FL00180,Example Business 180,contact0180@example.test,East,SMB,Paid search,New,Ethan Wright,2026-10-31T06:00:00,,,Normal,0
+FL00181,Example Business 181,contact0181@example.test,East,Enterprise,Referral,Contacted,Leah Patel,2026-10-31T01:00:00,2026-10-31T03:00:00,2026-11-02T03:00:00,High,0
+FL00182,Example Business 182,contact0182@example.test,Central,SMB,Referral,New,,2026-10-27T11:00:00,,,High,0
+FL00183,Example Business 183,contact0183@example.test,West,SMB,Paid search,New,,2026-10-26T15:00:00,,,Normal,0
+FL00184,Example Business 184,contact0184@example.test,Central,SMB,Outbound,Contacted,,2026-10-26T14:00:00,2026-10-28T22:00:00,2026-10-30T01:00:00,Normal,0
+FL00185,Example Business 185,contact0185@example.test,East,Mid-market,Referral,New,Amira Chen,2026-10-29T18:00:00,,,Normal,0
+FL00186,Example Business 186,,Central,Mid-market,Outbound,New,,2026-10-25T21:00:00,,,Normal,0
+FL00187,Example Business 187,contact0187@example.test,Central,Mid-market,Paid search,New,Amira Chen,2026-10-27T17:00:00,,,Normal,0
+FL00188,Example Business 188,contact0001@example.test,East,SMB,Outbound,New,Ethan Wright,2026-10-29T03:00:00,,,Normal,0
+FL00189,Example Business 189,contact0189@example.test,East,Mid-market,Webinar,New,Unlisted User,2026-10-29T01:00:00,,,Normal,0
+FL00190,Example Business 190,contact0190@example.test,West,Mid-market,Webinar,New,,2026-10-26T02:00:00,,,Normal,0
+FL00191,Example Business 191,contact0191@example.test,Central,SMB,Outbound,New,,2026-10-26T06:00:00,,,Normal,0
+FL00192,Example Business 192,contact0192@example.test,Central,Mid-market,Referral,Qualified,Priya Shah,2026-10-27T19:00:00,2026-10-28T21:00:00,2026-10-30T16:00:00,Normal,0
+FL00193,Example Business 193,contact0193@example.test,East,SMB,Referral,Qualified,Noah Brooks,2026-10-26T00:00:00,2026-10-26T19:00:00,2026-10-28T03:00:00,Normal,0
+FL00194,Example Business 194,contact0194@example.test,West,SMB,Referral,New,Noah Brooks,2026-10-29T18:00:00,,,Normal,0
+FL00195,Example Business 195,contact0195@example.test,East,Mid-market,Paid search,New,,2026-10-30T08:00:00,,,High,0
+FL00196,Example Business 196,contact0196@example.test,Central,Mid-market,Outbound,Contacted,,2026-10-27T16:00:00,2026-10-28T16:00:00,2026-10-29T18:00:00,Normal,0
+FL00197,Example Business 197,contact0197@example.test,West,Mid-market,Referral,Contacted,Mateo Garcia,2026-10-26T19:00:00,2026-10-27T18:00:00,2026-10-29T01:00:00,Normal,0
+FL00198,Example Business 198,contact0198@example.test,West,Mid-market,Paid search,New,Amira Chen,2026-10-31T11:00:00,,,Normal,0
+FL00199,Example Business 199,contact0199@example.test,Central,Mid-market,Demo request,Contacted,Ethan Wright,2026-10-30T19:00:00,2026-10-31T12:00:00,2026-11-02T05:00:00,Normal,0
+FL00200,Example Business 200,contact0200@example.test,East,Mid-market,Webinar,New,Mateo Garcia,2026-10-31T15:00:00,,,Normal,0
+FL00201,Example Business 201,contact0201@example.test,West,SMB,Paid search,New,,2026-10-30T17:00:00,,,Normal,0
+FL00202,Example Business 202,contact0202@example.test,West,Mid-market,Paid search,Contacted,Amira Chen,2026-10-30T07:00:00,2026-10-30T13:00:00,2026-10-31T08:00:00,Normal,0
+FL00203,Example Business 203,contact0203@example.test,East,SMB,Demo request,Contacted,Priya Shah,2026-10-26T02:00:00,2026-10-28T03:00:00,2026-10-29T15:00:00,Normal,0
+FL00204,Example Business 204,contact0204@example.test,East,SMB,Demo request,Contacted,,2026-10-25T19:00:00,2026-10-28T03:00:00,2026-10-28T15:00:00,Normal,0
+FL00205,Example Business 205,contact0205@example.test,West,SMB,Demo request,Contacted,,2026-10-28T12:00:00,2026-10-30T08:00:00,2026-10-31T02:00:00,Normal,0
+FL00206,Example Business 206,contact0206@example.test,East,Mid-market,Outbound,New,,2026-10-30T22:00:00,,,Normal,0
+FL00207,Example Business 207,contact0207@example.test,Central,SMB,Referral,New,Ethan Wright,2026-10-27T06:00:00,,,Normal,0
+FL00208,Example Business 208,contact0208@example.test,West,SMB,Outbound,New,,2026-10-27T15:00:00,,,High,0
+FL00209,Example Business 209,contact0209@example.test,West,Enterprise,Webinar,New,Leah Patel,2026-10-28T01:00:00,,,High,0
+FL00210,Example Business 210,contact0210@example.test,East,SMB,Referral,New,,2026-10-26T23:00:00,,,Normal,0
+FL00211,Example Business 211,contact0211@example.test,East,SMB,Paid search,Contacted,,2026-10-27T14:00:00,2026-10-29T09:00:00,2026-10-31T14:00:00,Normal,0
+FL00212,Example Business 212,contact0212@example.test,East,Mid-market,Outbound,Contacted,,2026-10-29T11:00:00,2026-10-29T21:00:00,2026-10-30T16:00:00,Normal,0
+FL00213,Example Business 213,contact0213@example.test,East,Enterprise,Demo request,New,,2026-10-27T20:00:00,,,High,0
+FL00214,Example Business 214,contact0214@example.test,East,SMB,Webinar,New,,2026-10-30T22:00:00,,,Normal,0
+FL00215,Example Business 215,contact0215@example.test,Central,Enterprise,Referral,New,,2026-10-25T23:00:00,,,High,0
+FL00216,Example Business 216,contact0216@example.test,West,SMB,Referral,Contacted,Unlisted User,2026-10-26T12:00:00,2026-10-26T22:00:00,2026-10-28T22:00:00,Normal,0
+FL00217,Example Business 217,,West,SMB,Outbound,Qualified,Ethan Wright,2026-10-27T20:00:00,2026-10-28T16:00:00,2026-10-30T22:00:00,Normal,0
+FL00218,Example Business 218,contact0218@example.test,West,Mid-market,Paid search,New,Ethan Wright,2026-10-26T10:00:00,,,Normal,0
+FL00219,Example Business 219,contact0219@example.test,East,Enterprise,Demo request,New,,2026-10-25T15:00:00,,,High,0
+FL00220,Example Business 220,contact0220@example.test,West,Mid-market,Paid search,Qualified,,2026-10-28T14:00:00,2026-10-29T17:00:00,2026-10-30T23:00:00,Normal,0

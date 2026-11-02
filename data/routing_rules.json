@@ -1,0 +1,17 @@
+{
+  "response_sla_hours": {
+    "High": 8,
+    "Normal": 24
+  },
+  "followup_sla_hours": 36,
+  "assign_only_statuses": [
+    "New"
+  ],
+  "routing_strategy": "lowest_active_load_then_name",
+  "duplicate_key": "normalized_email",
+  "assignment_requires": [
+    "email",
+    "region",
+    "segment"
+  ]
+}

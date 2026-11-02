@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Amira Chen",
+    "regions": [
+      "East",
+      "Central"
+    ],
+    "segments": [
+      "SMB",
+      "Mid-market"
+    ],
+    "capacity": 60
+  },
+  {
+    "name": "Noah Brooks",
+    "regions": [
+      "East",
+      "Central"
+    ],
+    "segments": [
+      "SMB",
+      "Enterprise"
+    ],
+    "capacity": 60
+  },
+  {
+    "name": "Priya Shah",
+    "regions": [
+      "West"
+    ],
+    "segments": [
+      "SMB",
+      "Mid-market"
+    ],
+    "capacity": 60
+  },
+  {
+    "name": "Mateo Garcia",
+    "regions": [
+      "West"
+    ],
+    "segments": [
+      "Mid-market",
+      "Enterprise"
+    ],
+    "capacity": 60
+  },
+  {
+    "name": "Leah Patel",
+    "regions": [
+      "East",
+      "Central"
+    ],
+    "segments": [
+      "Enterprise",
+      "Mid-market"
+    ],
+    "capacity": 60
+  },
+  {
+    "name": "Ethan Wright",
+    "regions": [
+      "West"
+    ],
+    "segments": [
+      "SMB",
+      "Enterprise"
+    ],
+    "capacity": 60
+  }
+]
